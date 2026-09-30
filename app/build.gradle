@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "bh.box.plugin.goproxy"
-        minSdk 24
+        minSdk 23
         targetSdk rootProject.ext.targetSdk
         versionCode 120
         versionName "1.2.0"
